@@ -5,8 +5,6 @@
   <a href="https://github.com/marcoscouzads">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscouzads&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscouzads&layout=compact&langs_count=7&theme=merko"/>
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div style="display: inline_block"><br>
