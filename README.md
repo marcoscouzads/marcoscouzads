@@ -3,8 +3,11 @@
 
  <div>
   <a href="https://github.com/marcoscouzads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscouzads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscouzads&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscouzads&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscouzads&layout=compact&langs_count=7&theme=merko"/>
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="mark-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +21,9 @@
   <img align="center" alt="mark-unity" height="30" width="40" src="repositorioLegal/svgs/unity-69.svg">
   
  <!--
-  
- <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  https://worldvectorlogo.com/
+  https://github.com/anuraghazra/github-readme-stats#customization
+
  -->
  
 </div>
@@ -34,14 +38,16 @@
   <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](repositorioLegal/svgs/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
+ ##
+ 
+  ![Snake animation](repositorioLegal/svgs/github-contribution-grid-snake.svg)
 
 <!--
 **marcoscouzads/marcoscouzads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/Platane/snk
 
 Here are some ideas to get you started:
 
@@ -53,9 +59,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![snake](github-user-contribution.svg)
-
-
 
 -->
